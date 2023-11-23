@@ -1,9 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rushi Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3><
+
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi173&label=Profile%20views&color=0e75b6&style=flat" alt="rushi173" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi173" alt="rushi173" /></a> </p>
 
 - 🔭 I’m currently working on [Budget Buddy](https://github.com/Mr-Yash-beldar/Budget_Buddy)
 
